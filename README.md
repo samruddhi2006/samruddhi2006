@@ -1,67 +1,50 @@
+<h1 align="center">Hi, I'm Samruddhi Badgujar 👋</h1>
 
-<h1 align="center">Hello there 👋</h1>
-#!/usr/bin/env python3
-
--- coding: utf-8 --
-class SoftwareEngineerStudent:
-def init(self):
-self.name = "YOUR_NAME"
-self.role = "Software Engineering Student"
-self.location = "Bhor, Maharashtra, India"
-self.interests = [
-"Full‑stack web development",
-"Database systems",
-"UI/UX design",
-"Linux & security"
-]
-def say_hi(self):
-    print("Thanks for dropping by! Hope you find some of my work interesting.")
-me = SoftwareEngineerStudent()
-me.say_hi()
-
+<p align="center">
+  <b>Enthusiastic IT student • Full‑stack developer in progress • Problem solver</b>
+</p>
 
 ---
 
 ## 📖 About Me
 
-- 🖥 **Student dev** exploring full‑stack apps, clean architectures, and practical software engineering.
-- 🎓 Pursuing a degree in Computer Science / Software Engineering.
-- 🌱 Currently learning modern web stacks, MongoDB, and Linux tooling for real‑world projects.
-- 🧪 Enjoy building lab/assignment projects into polished, production‑like applications.
-- 🧩 Interested in cryptography, security practices, and reliable backend systems.
+- 🎓 B.E. Information Technology student at Bharati Vidyapeeth’s College of Engineering for Women, Pune (2023–2027). [file:3]  
+- 💻 Strong foundation in computer science with hands-on experience in building innovative projects. [file:3]  
+- 🚀 Experienced in developing scalable web applications, robust APIs, and working with Agile methodologies. [file:3]  
+- 🌱 Eager to apply skills in real-world settings and contribute to impactful tech solutions. [file:3]  
+
 
 ---
 
-## ⬆ What I’m up to
+## 📂 Projects
 
-- 🔨 Building small full‑stack projects (auth, dashboards, CRUD apps) to sharpen fundamentals.
-- 🐧 Experimenting with Linux workflows, dotfiles, and terminal‑driven development.
-- 🗄️ Designing and optimizing database schemas for course and personal projects.
-- ✏️ Improving UI/UX skills with wireframes and prototypes before writing code.
+### 💱 Currency Converter  
+🛠 ReactJS — Vite — TailwindCSS [file:3]
 
----
+### 📊 SIP Calculator  
+🛠 Python and libraries (pandas, NumPy, Matplotlib) [file:3]
 
-## 🧰 Tech & Tools
-
-- **Languages:** JavaScript, TypeScript (learning), HTML, CSS, SQL
-- **Web:** React / Next.js (or your framework), Node.js / Express, REST APIs
-- **Databases:** MongoDB, MySQL / PostgreSQL
-- **Tools:** Git, GitHub, VS Code, Figma, Linux shell, Docker (if applicable)
+### 🪪 Business Card Generator  
+🛠 JavaScript — Svelte — HTML — CSS [file:3]
 
 ---
 
-## 📝 Projects & Notes
+## 🛠 Technical Skills
 
-- 📚 Coursework projects in web development and database systems (see pinned repos).
-- 🌐 Personal experiments with responsive layouts, authentication flows, and dashboards.
-- 🧾 Notes and snippets on Linux, MongoDB, and security practices (WIP).
+- **Languages:** Java, Python, SQL, JavaScript, HTML/CSS [file:3]  
+- **Frameworks / DB:** React, Node.js, MongoDB [file:3]  
+- **Developer Tools:** Linux, Git, VS Code, Visual Studio, Eclipse, Postman, Google Colab [file:3]  
+- **Libraries:** pandas, NumPy, Matplotlib [file:3]  
+- **Core Concepts:** OOPs, Computer Networks, DSA, OS, Computer Graphics, SQL [file:3]  
 
 ---
 
-## 📫 How to reach me
+## 📫 Contact
 
-- 📧 Email: `your.email@example.com`
-- 💼 LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_HANDLE)
-- 🌐 Portfolio / Blog (optional): [your-site.com](https://your-site.com)
+- 📱 Phone: +91 8275110690 [file:3]  
+- 📧 Email: samruddhi.10@outlook.com [file:3]  
+- 🔗 LinkedIn: *add your profile link here* [file:3]  
+- 🐙 GitHub: *this profile* [file:3]  
+- 🧩 LeetCode: *add your profile link here* [file:3]  
 
-Thanks for visiting — feel free to open issues, fork projects, or just say hi 🙂
+Thanks for visiting! ⭐ Feel free to check out my projects, open issues, or connect with me.
