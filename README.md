@@ -8,10 +8,10 @@
 
 ## 📖 About Me
 
-- 🎓 B.E. Information Technology student at Bharati Vidyapeeth’s College of Engineering for Women, Pune (2023–2027). [file:3]  
-- 💻 Strong foundation in computer science with hands-on experience in building innovative projects. [file:3]  
-- 🚀 Experienced in developing scalable web applications, robust APIs, and working with Agile methodologies. [file:3]  
-- 🌱 Eager to apply skills in real-world settings and contribute to impactful tech solutions. [file:3]  
+- 🎓 B.E. Information Technology student at Bharati Vidyapeeth’s College of Engineering for Women, Pune (2023–2027).   
+- 💻 Strong foundation in computer science with hands-on experience in building innovative projects.  
+- 🚀 Experienced in developing scalable web applications, robust APIs, and working with Agile methodologies.  
+- 🌱 Eager to apply skills in real-world settings and contribute to impactful tech solutions.  
 
 
 ---
@@ -31,9 +31,7 @@
 
 ## 🛠 Technical Skills
 
-- **Languages:** Java, Python, SQL, JavaScript, HTML/CSS [file:3]  
-- **Frameworks / DB:** React, Node.js, MongoDB [file:3]  
-- **Developer Tools:** Linux, Git, VS Code, Visual Studio, Eclipse, Postman, Google Colab [file:3]  
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="71" height="71" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="71" height="71" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="71" height="71" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="71" height="71" /></div>
 - **Libraries:** pandas, NumPy, Matplotlib [file:3]  
 - **Core Concepts:** OOPs, Computer Networks, DSA, OS, Computer Graphics, SQL [file:3]  
 
