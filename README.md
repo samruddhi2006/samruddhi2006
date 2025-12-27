@@ -70,8 +70,7 @@
 ---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=samruddhi2006)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=samruddhi2006&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ---
 
