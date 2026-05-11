@@ -25,7 +25,7 @@
 
 ## 🛠 𝚃𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚂𝚔𝚒𝚕𝚕𝚜
 
-- **𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜:**
+- **𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜:** </br>
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
    ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
    ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
@@ -35,7 +35,7 @@
    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-- **𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 / 𝙳𝙱:**    
+- **𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 / 𝙳𝙱:**    </br>
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -45,7 +45,7 @@
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
    ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-- **𝚃𝚘𝚘𝚕𝚜:**  
+- **𝚃𝚘𝚘𝚕𝚜:**  </br>
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
    ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
    ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
